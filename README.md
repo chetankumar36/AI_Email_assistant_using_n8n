@@ -548,6 +548,8 @@ AI-Email-Automation-Assistant/
 
 **AI Email Automation Assistant**
 
+**Author : Chetan Kumar N k**
+
 Built using:
 
 **n8n • Gmail • Groq • LLM • Telegram • Google Sheets**
