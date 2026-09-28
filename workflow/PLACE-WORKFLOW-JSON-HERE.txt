@@ -1,0 +1,2 @@
+Place your sanitized n8n exported workflow JSON here and rename it to ai-email-automation.json.
+Do not include live credentials or secrets.
